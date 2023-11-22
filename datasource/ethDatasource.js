@@ -41,3 +41,4 @@ class EtherDataSource extends RESTDataSource {
   }
 
 }
+module.exports = EtherDataSource;
